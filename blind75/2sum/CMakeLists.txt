@@ -1,0 +1,1 @@
+add_executable (sum2 main.cpp)
